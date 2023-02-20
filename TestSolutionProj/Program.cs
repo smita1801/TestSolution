@@ -8,5 +8,10 @@ namespace TestSolutionProj
         {
             Console.WriteLine("Hello World!");
         }
+
+        public void incrementCounter()
+        {
+            Console.WriteLine("Increment counter by 3");
+        }
     }
 }
