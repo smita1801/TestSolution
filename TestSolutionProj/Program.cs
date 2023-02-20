@@ -13,5 +13,10 @@ namespace TestSolutionProj
         {
             Console.WriteLine("Increment counter by 3");
         }
+
+        public void DecrementCounter()
+        {
+            Console.WriteLine("Decrement counter by 1");
+        }
     }
 }
