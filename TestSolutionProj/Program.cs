@@ -11,12 +11,12 @@ namespace TestSolutionProj
 
         public void incrementCounter()
         {
-            Console.WriteLine("Increment counter by 3");
+            Console.WriteLine("Increment counter by 30");
         }
 
         public void DecrementCounter()
         {
-            Console.WriteLine("Decrement counter by 1");
+            Console.WriteLine("Decrement counter by 33");
         }
     }
 }
